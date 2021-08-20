@@ -24,7 +24,7 @@ Todas as requisições devem ser codificadas como JSON com o cabeçalho `Content
 
 > 🔥 A documentação da API pode ser encontrada no link abaixo
 > 
-> [API Docs](https://magpyschramm.herokuapp.com/api/docs/)
+> [API Docs](https://magpyschramm.herokuapp.com/api)
 
 ### Testando a API
 Um arquivo `Tests.py` está disponível neste repositório. Ele irá executar uma sequência de requests para testar os retorno da API.
